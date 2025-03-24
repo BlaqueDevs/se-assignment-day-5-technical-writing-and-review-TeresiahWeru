@@ -192,7 +192,7 @@ Improvement: "Parameters" is a technical term that might not be immediately clea
 .Reducing Ambiguity: Examples clarify vague or ambiguous explanations, ensuring everyone understands the same thing.
 
 
-3. Effective Visuals:
+2. Effective Visuals:
 .Visual Representation: Visuals like diagrams, charts, and graphs translate complex information into a more digestible format.
 
 .Spatial Understanding: Visuals can illustrate spatial relationships, processes, and flows that are difficult to explain with text alone.
